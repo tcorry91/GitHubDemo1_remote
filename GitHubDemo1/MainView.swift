@@ -14,8 +14,8 @@ struct MainView: View {
     
     var body: some View {
         VStack {
-            
-            Color.red.edgesIgnoringSafeArea(.all)
+             
+            Color.blue.edgesIgnoringSafeArea(.all)
             
             Image(systemName: "globe")
                 .imageScale(.large)
